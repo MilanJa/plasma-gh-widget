@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Id": "dev.milan.ghwidget",
+        "Name": "GitHub PRs",
+        "Description": "Pull requests waiting for your review, your open PRs with CI status, and unread notifications, via the GitHub CLI",
+        "Icon": "vcs-merge-request",
+        "Category": "Online Services",
+        "Authors": [
+            {
+                "Name": "Milan Jansen"
+            }
+        ],
+        "License": "MIT",
+        "Version": "0.1.0",
+        "Website": "https://github.com/MilanJa/plasma-gh-widget"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
